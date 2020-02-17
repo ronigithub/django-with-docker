@@ -13,3 +13,4 @@
 | Run Command for build  | sudo docker-compose build | 
 ||
 | Run Command for creating django project | sudo docker-compose run app sh -c "django-admin.py startproject app ." |
+| Run the application | docker-compose up |
