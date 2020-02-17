@@ -1,2 +1,2 @@
-# django-with-docker
-Django with Docker
+# create a docker file 
+>> Dockerfile
